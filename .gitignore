@@ -1,0 +1,5 @@
+**/notebooks/**
+*.sofa
+*.txt
+**/data_audio
+**/__pycache__/**
